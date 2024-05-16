@@ -1,0 +1,9 @@
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/Maaz-Sidd/Full-Stack-Portfolio
+[submodule "Portfolio-front"]
+	path = Portfolio-front
+	url = https://github.com/Maaz-Sidd/Portfolio
+[submodule "Porfolio-back"]
+	path = Porfolio-back
+	url = https://github.com/Maaz-Sidd/Portfolio-backend
